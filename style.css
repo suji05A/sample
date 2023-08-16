@@ -1,8 +1,13 @@
 *{
     font-family : montserrat;
+    padding:0;
+    margin:0;
 }
-body{
-    background : f1fbff;
+nav ul li a{
+    color:white;
+    font-weight: bold;
+    text-transform: uppercase;
+
 }
 .section-padding{
     padding : 100p 0;
